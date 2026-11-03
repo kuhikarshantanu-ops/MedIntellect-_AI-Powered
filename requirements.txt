@@ -1,0 +1,18 @@
+# Core Flask
+Flask==3.1.0
+Werkzeug==3.1.3
+python-dotenv==1.1.1
+
+# Database
+mysql-connector-python==9.4.0
+
+# Production Server
+gunicorn==23.0.0
+
+# Phase 4 — OCR Prescription Reader
+easyocr==1.7.1
+pillow==10.4.0
+
+# Phase 4 — Image Disease Detection
+tensorflow==2.17.0
+numpy==1.26.4
